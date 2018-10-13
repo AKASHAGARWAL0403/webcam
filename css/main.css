@@ -1,0 +1,25 @@
+.booth
+{
+    width: 300px;
+    background: #ccc;
+    border: 10px solid black;
+    margin: 0 auto; 
+}
+
+#capture
+{
+    display: block;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+#show_image
+{
+    display: none;
+}
+#photo
+{
+    width: 300px;
+    height: 300px;
+}
